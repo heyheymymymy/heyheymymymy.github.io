@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "3D275BTZ2Y.com.rinko.tripapp",
+        "appIDs": ["3D275BTZ2Y.com.rinko.tripapp"],
+        "paths": ["/trips", "/trips/*"],
+        "components": [
+          { "/": "/trips", "comment": "行程網頁首頁（帶旅程參數）" },
+          { "/": "/trips/*", "comment": "行程網頁" }
+        ]
+      }
+    ]
+  }
+}
